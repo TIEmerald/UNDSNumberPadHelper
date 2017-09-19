@@ -1,0 +1,22 @@
+{
+  "name": "UNDSNumberPadHelper",
+  "version": "0.1.0",
+  "summary": "A short description of UNDSNumberPadHelper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/UNDaniel/UNDSNumberPadHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "UNDaniel": "daniel@abacus.co"
+  },
+  "source": {
+    "git": "https://github.com/UNDaniel/UNDSNumberPadHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UNDSNumberPadHelper/Classes/**/*"
+}

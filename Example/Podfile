@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'UNDSNumberPadHelper_Example' do
   pod 'UNDSNumberPadHelper', :path => '../'
+  pod 'UNDanielBasicTool_Swift', :path => '~/Developer/Libraries/UNDaniel Basic Tool for Swift'
 
   target 'UNDSNumberPadHelper_Tests' do
     inherit! :search_paths

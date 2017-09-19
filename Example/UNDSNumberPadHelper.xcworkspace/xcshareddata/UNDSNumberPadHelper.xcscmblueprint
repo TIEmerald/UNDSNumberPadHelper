@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "02630BF53C9AE1FE8D0D7E455E1259E699322FE3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "02630BF53C9AE1FE8D0D7E455E1259E699322FE3" : 9223372036854775807,
+    "3EA29C8EA9186E3C5F80F2B9DC4E33E1D017A41D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D25287D6-DABB-4075-AE7F-40AA3D1E1CB7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "02630BF53C9AE1FE8D0D7E455E1259E699322FE3" : "UNDSNumberPadHelper\/",
+    "3EA29C8EA9186E3C5F80F2B9DC4E33E1D017A41D" : "UNDaniel%20Basic%20Tool%20for%20Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UNDSNumberPadHelper",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/UNDSNumberPadHelper.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TIEmerald\/UNDSNumberPadHelper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "02630BF53C9AE1FE8D0D7E455E1259E699322FE3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TIEmerald\/UNDanielBasicTool_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3EA29C8EA9186E3C5F80F2B9DC4E33E1D017A41D"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+framework module UNDSNumberPadHelper {
+  umbrella header "UNDSNumberPadHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
